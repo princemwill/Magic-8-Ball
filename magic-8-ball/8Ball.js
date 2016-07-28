@@ -1,4 +1,5 @@
-﻿
+﻿/// <reference path="Scripts/jquery-3.1.0.js" />
+
 
 var randomAnswers = [
        'Maybe, but is it worth it?',
